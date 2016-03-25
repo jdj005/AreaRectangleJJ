@@ -59,7 +59,7 @@ public class AreaRectangleJJ {
     * @return the calculated area of the rectangle
     */
    public static double getArea(double width, double length) {
-      return .5 * (width * length);
+      return (width * length);
    }
 
    /**
